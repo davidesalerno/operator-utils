@@ -82,3 +82,5 @@ require (
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.0 // indirect
 	sigs.k8s.io/yaml v1.3.0 // indirect
 )
+
+replace github.com/google/gnostic v0.6.9 => github.com/googleapis/gnostic v0.6.9
